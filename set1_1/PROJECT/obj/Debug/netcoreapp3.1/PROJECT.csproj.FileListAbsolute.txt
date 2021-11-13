@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\bin\Debug\netcoreapp3.1\PROJECT.exe
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\bin\Debug\netcoreapp3.1\PROJECT.deps.json
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\bin\Debug\netcoreapp3.1\PROJECT.runtimeconfig.json
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\bin\Debug\netcoreapp3.1\PROJECT.runtimeconfig.dev.json
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\bin\Debug\netcoreapp3.1\PROJECT.dll
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\bin\Debug\netcoreapp3.1\PROJECT.pdb
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\obj\Debug\netcoreapp3.1\PROJECT.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\obj\Debug\netcoreapp3.1\PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\obj\Debug\netcoreapp3.1\PROJECT.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\obj\Debug\netcoreapp3.1\PROJECT.AssemblyInfo.cs
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\obj\Debug\netcoreapp3.1\PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\obj\Debug\netcoreapp3.1\PROJECT.dll
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\obj\Debug\netcoreapp3.1\PROJECT.pdb
+C:\Users\user\Documents\GITHUB\FUNDAMENTE_tema\set1_1\PROJECT\obj\Debug\netcoreapp3.1\PROJECT.genruntimeconfig.cache
